@@ -1,14 +1,14 @@
 {
-  "name": "jsaqa-7.2",
+  "name": "7.2.-homework-1",
   "version": "1.0.0",
   "description": "",
-  "homepage": "https://github.com/IgorAndryuschenko/JSAQA-7.2#readme",
+  "homepage": "https://github.com/backupwow2085/7.2.-homework-1#readme",
   "bugs": {
-    "url": "https://github.com/IgorAndryuschenko/JSAQA-7.2/issues"
+    "url": "https://github.com/backupwow2085/7.2.-homework-1/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/IgorAndryuschenko/JSAQA-7.2.git"
+    "url": "git+https://github.com/backupwow2085/7.2.-homework-1.git"
   },
   "license": "ISC",
   "author": "",
